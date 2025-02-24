@@ -1,4 +1,4 @@
-# **FRP Server Setup on EC2**
+# **FRP Server-Setup **
 
 This README provides detailed steps on how to set up and configure the **FRP server** on an **EC2 instance** running **Ubuntu**.
 
